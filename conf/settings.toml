@@ -1,0 +1,4 @@
+port = 2121
+host = "0.0.0.0"
+max_connections = 16777215
+max_passive = 255
